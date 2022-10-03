@@ -1,7 +1,12 @@
 package Basique;
 
 import java.util.Scanner;
-
+/**
+ * 
+ *  
+ * Écrivez un programme Java pour afficher la diviison de deux nombres.
+ * */
+ 
 public class Division {
 
 	public static void main(String[] args) {

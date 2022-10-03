@@ -1,6 +1,13 @@
 package Basique;
 
 import java.util.Scanner;
+/**
+ * 
+ * /**
+ * 
+ * Écrivez un programme Java pour afficher la multiplication de deux nombres.
+ * */
+
 
 public class Multiplication {
 
